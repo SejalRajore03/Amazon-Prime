@@ -32,9 +32,15 @@ A complete end-to-end analysis of Amazon Prime Tv Shows and Movies using Python.
 🛠️ Solutions :
 
 ✅ 1. Expand Family-Friendly Content
+
 ✅ 2. Boost Regional Libraries
+
 ✅ 3. Curate Classics Collection
+
 ✅ 4. Highlight Top-Rated Titles
+
 ✅ 5. Optimize Content Length Mix
+
 ✅ 6. Monitor Release Cadence
+
 ✅ 7. Refine Genre Recommendations
